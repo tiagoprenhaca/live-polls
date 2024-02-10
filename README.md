@@ -1,5 +1,8 @@
 # Live Polls
 
+## NOTE
+The frontend is not commited yet, so you cant find it, but the backend is fully functional. Follow the instructions to use.
+
 ### About
 
 This project **Live Polls** is an live polls app. This project was taught at the **Rocketseat** event. I took the liberty of adding the front-end part on my own, thus making the app fully functional.
